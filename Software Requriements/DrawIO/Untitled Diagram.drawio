@@ -1,12 +1,82 @@
-<mxfile host="app.diagrams.net" modified="2021-10-16T17:52:33.228Z" agent="5.0 (Windows)" etag="tRJJapZL6WIqkGBrt4N1" version="15.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-16T21:18:52.060Z" agent="5.0 (Windows)" etag="ie4xCNkqnwQJVXtknPsC" version="15.4.1" type="github" pages="5">
   <diagram id="U4mg9C_StiXj8ZKMRVDW" name="Themes">
-    <mxGraphModel dx="1718" dy="950" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="982" dy="543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="JEgnqoY6I7uBtnNxOAXn-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
+        <UserObject label="Login" link="data:page/id,Eyx1zjlR73WPF7y6X4yR" id="JEgnqoY6I7uBtnNxOAXn-1">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+            <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="YpQ07xNhYBrQUXTADHPA-1" value="Registration" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="40" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="LqviV_DNU4wQCkDSFplH-1" value="Users" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w8sz3olIVCtSpXsirirF-1" value="Permissions &amp;amp; Roles" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="USSnysQ1i_rHeAMIco7n-1" value="&lt;div&gt;Tickets&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="USSnysQ1i_rHeAMIco7n-2" value="Support Groups" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sE-CPNXv4pUMjsDhTnFV-1" value="Message Templates" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sE-CPNXv4pUMjsDhTnFV-2" value="&lt;div&gt;Language support&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sE-CPNXv4pUMjsDhTnFV-3" value="Simple knowledge database" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sE-CPNXv4pUMjsDhTnFV-4" value="&lt;div&gt;Reports&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sE-CPNXv4pUMjsDhTnFV-5" value="Integration API" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sE-CPNXv4pUMjsDhTnFV-6" value="Dashboard" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Eyx1zjlR73WPF7y6X4yR" name="Login">
+    <mxGraphModel dx="2062" dy="1140" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="g2kaFrd8a3R5kdr6RoFH-0" />
+        <mxCell id="g2kaFrd8a3R5kdr6RoFH-1" parent="g2kaFrd8a3R5kdr6RoFH-0" />
+        <mxCell id="g89evlefRfwaJGI9LU7N-0" value="0Auth with OpenID Connect" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="g2kaFrd8a3R5kdr6RoFH-1">
+          <mxGeometry x="30" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="0yCEXHblprQDjJPIjbt-" name="Registration">
+    <mxGraphModel dx="2062" dy="1140" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="12fAbOhezquUYCARptIF-0" />
+        <mxCell id="12fAbOhezquUYCARptIF-1" parent="12fAbOhezquUYCARptIF-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="vCbPo8Xh16mwTPyjkDVn" name="Users">
+    <mxGraphModel dx="2062" dy="1140" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="QegS6RiroXAI6x7no39Y-0" />
+        <mxCell id="QegS6RiroXAI6x7no39Y-1" parent="QegS6RiroXAI6x7no39Y-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="KQM59oLYCG9JoziI4fd3" name="Permissions &amp; Roles">
+    <mxGraphModel dx="2062" dy="1140" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="rIuRkCqSt2JMLeKRSJT7-0" />
+        <mxCell id="rIuRkCqSt2JMLeKRSJT7-1" parent="rIuRkCqSt2JMLeKRSJT7-0" />
       </root>
     </mxGraphModel>
   </diagram>
